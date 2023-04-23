@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/simple-react-ecommerce.github.io/static/js/main.c902cd1b.js",
+    "static/js/787.bff5df39.chunk.js": "/simple-react-ecommerce.github.io/static/js/787.bff5df39.chunk.js",
+    "index.html": "/simple-react-ecommerce.github.io/index.html",
+    "main.c902cd1b.js.map": "/simple-react-ecommerce.github.io/static/js/main.c902cd1b.js.map",
+    "787.bff5df39.chunk.js.map": "/simple-react-ecommerce.github.io/static/js/787.bff5df39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c902cd1b.js"
+  ]
+}
